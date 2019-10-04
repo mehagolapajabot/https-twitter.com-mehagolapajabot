@@ -1,0 +1,1 @@
+$ twurl -X POST "/1.1/statuses/update.json?status=this is a new Tweet sent using twurl"
