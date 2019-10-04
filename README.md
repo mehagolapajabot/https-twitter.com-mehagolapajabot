@@ -1,6 +1,6 @@
 # https-twitter.com-mehagolapajabot
 TwitterBot
-https://github.com/mehagolapajabot[ES] - Español:
+https://github.com/mehagolapajabot 
 
 TwitterBot es un algoritmo creado en php y MySQL para la automatización de una cuenta de Twitter, simulando ser un bot. Trabaja como una aplicación de twitter, con el token correspondiente, token de acceso y clave secreta que brinda la red social a quien solicita crear una aplicación en Twitter.
 
@@ -13,4 +13,3 @@ Por ahora cuenta con solo 2 archivos de script:
 -> buscarTweets.php Algoritmo que toma los tweets más recientes que se incluyen en la búsqueda del hashtag "#mehagolapaja". Tiene diferentes 'filtraciones' para que no contengan spam ni enlaces / sitios maliciosos. Los agrega una base de datos si es que la frase no existe. Y envía un correo con los informes enviados.
 
 TwitterBot
-[ES] - Inglés: # Trabajando en ello, mantén la calma. (:
